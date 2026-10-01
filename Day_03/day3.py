@@ -58,13 +58,6 @@ y2= 10
 slope = (y2 - y1) / (x2 - x1)
 print("Slope is:", slope)
 
-x1 = 1
-y1 = 2
-x2 = 4
-y2 = 6
-import math
-distance = math.sqrt((x2 - x1) ** 2 + (y2 - y1) ** 2)
-print("Distance between the points:", distance)
 
 x = 10
 print(type(x))
