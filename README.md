@@ -21,10 +21,11 @@
 | Day 12 | Modules | ✅ Done |
 | Day 13 | List Comprehensions | ✅ Done |
 | Day 14 | Higher-Order Functions | ✅ Done |
+| Day 15 | Python-Type errors | ✅ Done |
 
 ## Current Progress
 
-**Days Completed:** 14  
+**Days Completed:** 15 
 **Status:** In Progress 🚀
 
 Continuously learning Python through hands-on exercises and coding practice.
