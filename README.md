@@ -26,6 +26,7 @@
 ## Current Progress
 
 **Days Completed:** 15 
+
 **Status:** In Progress 🚀
 
 Continuously learning Python through hands-on exercises and coding practice.
