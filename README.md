@@ -22,10 +22,13 @@
 | Day 13 | List Comprehensions | ✅ Done |
 | Day 14 | Higher-Order Functions | ✅ Done |
 | Day 15 | Python-Type errors | ✅ Done |
+| Day 16 | Python - date time | ✅ Done |
+| Day 17 | Exception handling | ✅ Done |
+| Day 18 | Regular expressions | ✅ Done |
 
 ## Current Progress
 
-**Days Completed:** 15 
+**Days Completed:** 18
 
 **Status:** In Progress 🚀
 
